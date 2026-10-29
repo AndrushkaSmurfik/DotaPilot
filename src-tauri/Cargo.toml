@@ -1,0 +1,33 @@
+[package]
+name = "dotapilot"
+version = "0.1.0"
+description = "DotaPilot — GSI overlay assistant for Dota 2"
+edition = "2021"
+
+[lib]
+name = "dotapilot_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = ["tray-icon"] }
+tauri-plugin-sql = { version = "2", features = ["sqlite"] }
+tauri-plugin-global-shortcut = "2"
+tauri-plugin-dialog = "2"
+tauri-plugin-autostart = "2"
+tauri-plugin-notification = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+axum = "0.8"
+tokio = { version = "1", features = ["net", "sync", "macros", "rt"] }
+
+[target.'cfg(windows)'.dependencies]
+winreg = "0.55"
+
+[dev-dependencies]
+tower = { version = "0.5", features = ["util"] }
+http-body-util = "0.1"
+tempfile = "3"
+tokio = { version = "1", features = ["net", "sync", "macros", "rt", "rt-multi-thread"] }

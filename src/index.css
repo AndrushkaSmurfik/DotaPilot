@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Segoe UI", system-ui, sans-serif;
+  color-scheme: dark;
+}
+
+body.overlay,
+body.overlay #root {
+  background: transparent;
+  overflow: hidden;
+  user-select: none;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}

@@ -1,0 +1,16 @@
+{
+  "provider": { "name": "Dota 2", "appid": 570, "version": 47, "timestamp": 1761651280 },
+  "map": {
+    "name": "start", "matchid": "9065883621", "game_time": 1280, "clock_time": 1190,
+    "daytime": true, "nightstalker_night": false,
+    "game_state": "DOTA_GAMERULES_STATE_GAME_IN_PROGRESS", "paused": false, "win_team": "none",
+    "radiant_score": 14, "dire_score": 21
+  },
+  "player": {
+    "steamid": "76561198085066985", "accountid": "124801257", "name": "MockPlayer", "activity": "playing",
+    "kills": 0, "deaths": 1, "assists": 1, "last_hits": 160, "denies": 11, "team_name": "radiant",
+    "gold": 1650, "gpm": 498, "xpm": 560
+  },
+  "hero": { "id": 80, "name": "npc_dota_hero_lone_druid", "level": 17, "alive": true, "buyback_cost": 1985, "buyback_cooldown": 0 },
+  "auth": { "token": "__TOKEN__" }
+}

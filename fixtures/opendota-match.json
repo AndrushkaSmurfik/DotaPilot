@@ -1,0 +1,2339 @@
+{
+  "match_id": 9065883621,
+  "duration": 1995,
+  "radiant_win": false,
+  "start_time": 1793202919,
+  "players": [
+    {
+      "account_id": 124801257,
+      "player_slot": 0,
+      "hero_id": 80,
+      "personaname": "Madder Sky",
+      "isRadiant": true,
+      "win": 0,
+      "kills": 0,
+      "deaths": 2,
+      "assists": 1,
+      "last_hits": 316,
+      "denies": 11,
+      "gold_per_min": 503,
+      "xp_per_min": 448,
+      "hero_damage": 4976,
+      "net_worth": 16815,
+      "lh_t": [
+        0,
+        2,
+        8,
+        11,
+        14,
+        19,
+        26,
+        34,
+        36,
+        39,
+        43,
+        56,
+        62,
+        69,
+        82,
+        90,
+        102,
+        115,
+        128,
+        140,
+        148,
+        163,
+        170,
+        182,
+        212,
+        223,
+        237,
+        245,
+        256,
+        259,
+        276,
+        287,
+        305,
+        316
+      ],
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "orb_of_frost"
+        },
+        {
+          "time": -89,
+          "key": "faerie_fire"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": 116,
+          "key": "boots_of_elves"
+        },
+        {
+          "time": 118,
+          "key": "tango"
+        },
+        {
+          "time": 174,
+          "key": "blight_stone"
+        },
+        {
+          "time": 215,
+          "key": "orb_of_corrosion"
+        },
+        {
+          "time": 272,
+          "key": "boots"
+        },
+        {
+          "time": 369,
+          "key": "gloves"
+        },
+        {
+          "time": 397,
+          "key": "boots_of_elves"
+        },
+        {
+          "time": 435,
+          "key": "power_treads"
+        },
+        {
+          "time": 528,
+          "key": "gloves"
+        },
+        {
+          "time": 667,
+          "key": "javelin"
+        },
+        {
+          "time": 847,
+          "key": "mithril_hammer"
+        },
+        {
+          "time": 867,
+          "key": "maelstrom"
+        },
+        {
+          "time": 1042,
+          "key": "hyperstone"
+        },
+        {
+          "time": 1174,
+          "key": "mjollnir"
+        },
+        {
+          "time": 1257,
+          "key": "blade_of_alacrity"
+        },
+        {
+          "time": 1259,
+          "key": "ogre_axe"
+        },
+        {
+          "time": 1287,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1391,
+          "key": "blade_of_alacrity"
+        },
+        {
+          "time": 1447,
+          "key": "staff_of_wizardry"
+        },
+        {
+          "time": 1559,
+          "key": "point_booster"
+        },
+        {
+          "time": 1580,
+          "key": "ultimate_scepter"
+        },
+        {
+          "time": 1650,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1651,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1824,
+          "key": "mithril_hammer"
+        },
+        {
+          "time": 1932,
+          "key": "ogre_axe"
+        },
+        {
+          "time": 1935,
+          "key": "black_king_bar"
+        }
+      ]
+    },
+    {
+      "account_id": 152168157,
+      "player_slot": 1,
+      "hero_id": 123,
+      "personaname": "k",
+      "isRadiant": true,
+      "win": 0,
+      "kills": 3,
+      "deaths": 9,
+      "assists": 2,
+      "last_hits": 31,
+      "denies": 4,
+      "gold_per_min": 219,
+      "xp_per_min": 296,
+      "hero_damage": 10390,
+      "net_worth": 4749,
+      "lh_t": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        3,
+        3,
+        3,
+        4,
+        6,
+        6,
+        9,
+        11,
+        11,
+        11,
+        12,
+        12,
+        14,
+        14,
+        19,
+        20,
+        26,
+        26,
+        26,
+        26,
+        26,
+        26,
+        27,
+        30,
+        30,
+        30,
+        30,
+        31
+      ],
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "ward_sentry"
+        },
+        {
+          "time": -89,
+          "key": "blight_stone"
+        },
+        {
+          "time": -89,
+          "key": "blood_grenade"
+        },
+        {
+          "time": 4,
+          "key": "tango"
+        },
+        {
+          "time": 14,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 95,
+          "key": "flask"
+        },
+        {
+          "time": 190,
+          "key": "tango"
+        },
+        {
+          "time": 269,
+          "key": "ward_observer"
+        },
+        {
+          "time": 316,
+          "key": "boots"
+        },
+        {
+          "time": 375,
+          "key": "dust"
+        },
+        {
+          "time": 375,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 375,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": 459,
+          "key": "tpscroll"
+        },
+        {
+          "time": 459,
+          "key": "clarity"
+        },
+        {
+          "time": 518,
+          "key": "magic_wand"
+        },
+        {
+          "time": 518,
+          "key": "magic_stick"
+        },
+        {
+          "time": 530,
+          "key": "blood_grenade"
+        },
+        {
+          "time": 539,
+          "key": "sobi_mask"
+        },
+        {
+          "time": 540,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 540,
+          "key": "ward_observer"
+        },
+        {
+          "time": 616,
+          "key": "circlet"
+        },
+        {
+          "time": 623,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 646,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 672,
+          "key": "dust"
+        },
+        {
+          "time": 730,
+          "key": "ring_of_protection"
+        },
+        {
+          "time": 743,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 746,
+          "key": "urn_of_shadows"
+        },
+        {
+          "time": 819,
+          "key": "tpscroll"
+        },
+        {
+          "time": 862,
+          "key": "ward_observer"
+        },
+        {
+          "time": 862,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1049,
+          "key": "chainmail"
+        },
+        {
+          "time": 1061,
+          "key": "wizard_hat"
+        },
+        {
+          "time": 1065,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1100,
+          "key": "essence_distiller"
+        },
+        {
+          "time": 1120,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1125,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1149,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1150,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1208,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": 1227,
+          "key": "dust"
+        },
+        {
+          "time": 1270,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1271,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1271,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1324,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1570,
+          "key": "aghanims_shard"
+        },
+        {
+          "time": 1598,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1598,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1598,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": 1676,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1910,
+          "key": "dust"
+        }
+      ]
+    },
+    {
+      "account_id": 56351509,
+      "player_slot": 2,
+      "hero_id": 2,
+      "personaname": "balance",
+      "isRadiant": true,
+      "win": 0,
+      "kills": 0,
+      "deaths": 8,
+      "assists": 4,
+      "last_hits": 226,
+      "denies": 3,
+      "gold_per_min": 384,
+      "xp_per_min": 386,
+      "hero_damage": 11673,
+      "net_worth": 11842,
+      "lh_t": [
+        0,
+        0,
+        9,
+        21,
+        29,
+        35,
+        40,
+        51,
+        62,
+        74,
+        89,
+        97,
+        113,
+        125,
+        130,
+        133,
+        147,
+        151,
+        161,
+        173,
+        184,
+        185,
+        188,
+        195,
+        195,
+        199,
+        205,
+        205,
+        205,
+        205,
+        215,
+        224,
+        225,
+        226
+      ],
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "gauntlets"
+        },
+        {
+          "time": -89,
+          "key": "gauntlets"
+        },
+        {
+          "time": -89,
+          "key": "ring_of_protection"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "faerie_fire"
+        },
+        {
+          "time": 0,
+          "key": "tango"
+        },
+        {
+          "time": 118,
+          "key": "boots"
+        },
+        {
+          "time": 178,
+          "key": "tango"
+        },
+        {
+          "time": 180,
+          "key": "chainmail"
+        },
+        {
+          "time": 268,
+          "key": "blades_of_attack"
+        },
+        {
+          "time": 294,
+          "key": "wind_lace"
+        },
+        {
+          "time": 311,
+          "key": "phase_boots"
+        },
+        {
+          "time": 353,
+          "key": "wind_lace"
+        },
+        {
+          "time": 455,
+          "key": "splintmail"
+        },
+        {
+          "time": 559,
+          "key": "broadsword"
+        },
+        {
+          "time": 559,
+          "key": "tpscroll"
+        },
+        {
+          "time": 663,
+          "key": "blade_mail"
+        },
+        {
+          "time": 1003,
+          "key": "blink"
+        },
+        {
+          "time": 1052,
+          "key": "dust"
+        },
+        {
+          "time": 1052,
+          "key": "dust"
+        },
+        {
+          "time": 1112,
+          "key": "soul_ring"
+        },
+        {
+          "time": 1246,
+          "key": "ogre_axe"
+        },
+        {
+          "time": 1247,
+          "key": "dust"
+        },
+        {
+          "time": 1575,
+          "key": "mithril_hammer"
+        },
+        {
+          "time": 1820,
+          "key": "black_king_bar"
+        },
+        {
+          "time": 1929,
+          "key": "dust"
+        }
+      ]
+    },
+    {
+      "account_id": 101356886,
+      "player_slot": 3,
+      "hero_id": 90,
+      "personaname": "gh",
+      "isRadiant": true,
+      "win": 0,
+      "kills": 2,
+      "deaths": 5,
+      "assists": 3,
+      "last_hits": 121,
+      "denies": 1,
+      "gold_per_min": 338,
+      "xp_per_min": 363,
+      "hero_damage": 11288,
+      "net_worth": 9536,
+      "lh_t": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        4,
+        8,
+        14,
+        20,
+        23,
+        24,
+        28,
+        40,
+        48,
+        55,
+        55,
+        55,
+        60,
+        60,
+        71,
+        72,
+        78,
+        80,
+        83,
+        90,
+        90,
+        92,
+        98,
+        98,
+        106,
+        114,
+        119,
+        121,
+        121
+      ],
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "faerie_fire"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "circlet"
+        },
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "blood_grenade"
+        },
+        {
+          "time": -89,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": 5,
+          "key": "tango"
+        },
+        {
+          "time": 5,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 71,
+          "key": "flask"
+        },
+        {
+          "time": 71,
+          "key": "ward_observer"
+        },
+        {
+          "time": 282,
+          "key": "boots"
+        },
+        {
+          "time": 351,
+          "key": "magic_stick"
+        },
+        {
+          "time": 388,
+          "key": "magic_wand"
+        },
+        {
+          "time": 416,
+          "key": "crown"
+        },
+        {
+          "time": 447,
+          "key": "tpscroll"
+        },
+        {
+          "time": 531,
+          "key": "tpscroll"
+        },
+        {
+          "time": 573,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 573,
+          "key": "tpscroll"
+        },
+        {
+          "time": 728,
+          "key": "ward_observer"
+        },
+        {
+          "time": 728,
+          "key": "ward_observer"
+        },
+        {
+          "time": 741,
+          "key": "holy_locket"
+        },
+        {
+          "time": 781,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 781,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 781,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": 835,
+          "key": "shawl"
+        },
+        {
+          "time": 835,
+          "key": "tpscroll"
+        },
+        {
+          "time": 839,
+          "key": "dust"
+        },
+        {
+          "time": 927,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 971,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1091,
+          "key": "shadow_amulet"
+        },
+        {
+          "time": 1118,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1172,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": 1235,
+          "key": "glimmer_cape"
+        },
+        {
+          "time": 1387,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1401,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1467,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1467,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1569,
+          "key": "staff_of_wizardry"
+        },
+        {
+          "time": 1569,
+          "key": "force_staff"
+        },
+        {
+          "time": 1569,
+          "key": "fluffy_hat"
+        },
+        {
+          "time": 1673,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1673,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1817,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1818,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1928,
+          "key": "aghanims_shard"
+        },
+        {
+          "time": 1939,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1940,
+          "key": "ward_sentry"
+        }
+      ]
+    },
+    {
+      "account_id": 210053851,
+      "player_slot": 4,
+      "hero_id": 47,
+      "personaname": "精神~",
+      "isRadiant": true,
+      "win": 0,
+      "kills": 3,
+      "deaths": 7,
+      "assists": 3,
+      "last_hits": 258,
+      "denies": 20,
+      "gold_per_min": 493,
+      "xp_per_min": 552,
+      "hero_damage": 10601,
+      "net_worth": 15085,
+      "lh_t": [
+        0,
+        2,
+        6,
+        12,
+        20,
+        30,
+        34,
+        36,
+        46,
+        49,
+        53,
+        57,
+        72,
+        79,
+        94,
+        108,
+        128,
+        139,
+        147,
+        155,
+        164,
+        172,
+        186,
+        194,
+        194,
+        207,
+        221,
+        221,
+        231,
+        243,
+        249,
+        254,
+        258,
+        258
+      ],
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "circlet"
+        },
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "ward_observer"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "circlet"
+        },
+        {
+          "time": -89,
+          "key": "faerie_fire"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": 1,
+          "key": "enchanted_mango"
+        },
+        {
+          "time": 4,
+          "key": "enchanted_mango"
+        },
+        {
+          "time": 50,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 70,
+          "key": "gauntlets"
+        },
+        {
+          "time": 123,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 147,
+          "key": "bracer"
+        },
+        {
+          "time": 181,
+          "key": "magic_stick"
+        },
+        {
+          "time": 237,
+          "key": "boots"
+        },
+        {
+          "time": 300,
+          "key": "dust"
+        },
+        {
+          "time": 316,
+          "key": "ward_observer"
+        },
+        {
+          "time": 416,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 560,
+          "key": "travel_boots"
+        },
+        {
+          "time": 612,
+          "key": "blades_of_attack"
+        },
+        {
+          "time": 704,
+          "key": "void_stone"
+        },
+        {
+          "time": 768,
+          "key": "ring_of_health"
+        },
+        {
+          "time": 786,
+          "key": "pers"
+        },
+        {
+          "time": 862,
+          "key": "cloak"
+        },
+        {
+          "time": 894,
+          "key": "orb_of_venom"
+        },
+        {
+          "time": 894,
+          "key": "branches"
+        },
+        {
+          "time": 909,
+          "key": "mage_slayer"
+        },
+        {
+          "time": 913,
+          "key": "clarity"
+        },
+        {
+          "time": 932,
+          "key": "fluffy_hat"
+        },
+        {
+          "time": 947,
+          "key": "magic_wand"
+        },
+        {
+          "time": 1048,
+          "key": "staff_of_wizardry"
+        },
+        {
+          "time": 1111,
+          "key": "force_staff"
+        },
+        {
+          "time": 1187,
+          "key": "belt_of_strength"
+        },
+        {
+          "time": 1281,
+          "key": "blade_of_alacrity"
+        },
+        {
+          "time": 1360,
+          "key": "dragon_lance"
+        },
+        {
+          "time": 1360,
+          "key": "hurricane_pike"
+        },
+        {
+          "time": 1535,
+          "key": "ogre_axe"
+        },
+        {
+          "time": 1702,
+          "key": "mithril_hammer"
+        },
+        {
+          "time": 1764,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1899,
+          "key": "black_king_bar"
+        },
+        {
+          "time": 1974,
+          "key": "dust"
+        }
+      ]
+    },
+    {
+      "account_id": 171262902,
+      "player_slot": 128,
+      "hero_id": 19,
+      "personaname": "Blade of Miquella",
+      "isRadiant": false,
+      "win": 1,
+      "kills": 12,
+      "deaths": 0,
+      "assists": 8,
+      "last_hits": 386,
+      "denies": 4,
+      "gold_per_min": 807,
+      "xp_per_min": 919,
+      "hero_damage": 38236,
+      "net_worth": 26828,
+      "lh_t": [
+        0,
+        3,
+        7,
+        16,
+        19,
+        26,
+        38,
+        50,
+        60,
+        74,
+        85,
+        93,
+        106,
+        122,
+        135,
+        148,
+        154,
+        177,
+        193,
+        210,
+        221,
+        233,
+        245,
+        263,
+        268,
+        291,
+        304,
+        314,
+        319,
+        334,
+        337,
+        358,
+        373,
+        385
+      ],
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "circlet"
+        },
+        {
+          "time": -89,
+          "key": "magic_stick"
+        },
+        {
+          "time": -89,
+          "key": "faerie_fire"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": 3,
+          "key": "tango"
+        },
+        {
+          "time": 110,
+          "key": "gloves"
+        },
+        {
+          "time": 195,
+          "key": "boots"
+        },
+        {
+          "time": 263,
+          "key": "belt_of_strength"
+        },
+        {
+          "time": 313,
+          "key": "power_treads"
+        },
+        {
+          "time": 365,
+          "key": "broadsword"
+        },
+        {
+          "time": 462,
+          "key": "ogre_axe"
+        },
+        {
+          "time": 561,
+          "key": "void_stone"
+        },
+        {
+          "time": 600,
+          "key": "echo_sabre"
+        },
+        {
+          "time": 766,
+          "key": "blink"
+        },
+        {
+          "time": 767,
+          "key": "tpscroll"
+        },
+        {
+          "time": 874,
+          "key": "claymore"
+        },
+        {
+          "time": 876,
+          "key": "blitz_knuckles"
+        },
+        {
+          "time": 911,
+          "key": "magic_wand"
+        },
+        {
+          "time": 959,
+          "key": "shadow_amulet"
+        },
+        {
+          "time": 999,
+          "key": "claymore"
+        },
+        {
+          "time": 1001,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1026,
+          "key": "invis_sword"
+        },
+        {
+          "time": 1150,
+          "key": "blade_of_alacrity"
+        },
+        {
+          "time": 1150,
+          "key": "boots_of_elves"
+        },
+        {
+          "time": 1150,
+          "key": "yasha"
+        },
+        {
+          "time": 1268,
+          "key": "diadem"
+        },
+        {
+          "time": 1293,
+          "key": "great_famango"
+        },
+        {
+          "time": 1353,
+          "key": "manta"
+        },
+        {
+          "time": 1477,
+          "key": "diadem"
+        },
+        {
+          "time": 1501,
+          "key": "harpoon"
+        },
+        {
+          "time": 1581,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1638,
+          "key": "demon_edge"
+        },
+        {
+          "time": 1650,
+          "key": "silver_edge"
+        },
+        {
+          "time": 1789,
+          "key": "claymore"
+        },
+        {
+          "time": 1789,
+          "key": "blades_of_attack"
+        },
+        {
+          "time": 1789,
+          "key": "lesser_crit"
+        },
+        {
+          "time": 1927,
+          "key": "demon_edge"
+        },
+        {
+          "time": 1953,
+          "key": "greater_crit"
+        }
+      ]
+    },
+    {
+      "account_id": 312436974,
+      "player_slot": 129,
+      "hero_id": 16,
+      "personaname": "CHIRA_JUNIOR",
+      "isRadiant": false,
+      "win": 1,
+      "kills": 8,
+      "deaths": 3,
+      "assists": 12,
+      "last_hits": 255,
+      "denies": 1,
+      "gold_per_min": 532,
+      "xp_per_min": 663,
+      "hero_damage": 17454,
+      "net_worth": 16906,
+      "lh_t": [
+        0,
+        3,
+        10,
+        20,
+        21,
+        30,
+        33,
+        35,
+        37,
+        43,
+        47,
+        57,
+        65,
+        69,
+        79,
+        90,
+        98,
+        113,
+        124,
+        127,
+        141,
+        143,
+        160,
+        178,
+        179,
+        192,
+        203,
+        203,
+        214,
+        236,
+        241,
+        248,
+        253,
+        253
+      ],
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "ward_observer"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "faerie_fire"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": 84,
+          "key": "bottle"
+        },
+        {
+          "time": 86,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 206,
+          "key": "boots"
+        },
+        {
+          "time": 297,
+          "key": "chainmail"
+        },
+        {
+          "time": 297,
+          "key": "ward_observer"
+        },
+        {
+          "time": 348,
+          "key": "blades_of_attack"
+        },
+        {
+          "time": 367,
+          "key": "phase_boots"
+        },
+        {
+          "time": 404,
+          "key": "wind_lace"
+        },
+        {
+          "time": 528,
+          "key": "clarity"
+        },
+        {
+          "time": 595,
+          "key": "tpscroll"
+        },
+        {
+          "time": 597,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 682,
+          "key": "clarity"
+        },
+        {
+          "time": 766,
+          "key": "blink"
+        },
+        {
+          "time": 796,
+          "key": "magic_stick"
+        },
+        {
+          "time": 831,
+          "key": "magic_wand"
+        },
+        {
+          "time": 834,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1003,
+          "key": "point_booster"
+        },
+        {
+          "time": 1039,
+          "key": "clarity"
+        },
+        {
+          "time": 1099,
+          "key": "ogre_axe"
+        },
+        {
+          "time": 1122,
+          "key": "clarity"
+        },
+        {
+          "time": 1148,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1153,
+          "key": "dust"
+        },
+        {
+          "time": 1190,
+          "key": "staff_of_wizardry"
+        },
+        {
+          "time": 1329,
+          "key": "blade_of_alacrity"
+        },
+        {
+          "time": 1347,
+          "key": "ultimate_scepter"
+        },
+        {
+          "time": 1435,
+          "key": "dust"
+        },
+        {
+          "time": 1623,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1701,
+          "key": "ghost"
+        },
+        {
+          "time": 1718,
+          "key": "point_booster"
+        },
+        {
+          "time": 1718,
+          "key": "vitality_booster"
+        },
+        {
+          "time": 1778,
+          "key": "soul_booster"
+        },
+        {
+          "time": 1778,
+          "key": "crellas_crozier"
+        },
+        {
+          "time": 1778,
+          "key": "energy_booster"
+        }
+      ]
+    },
+    {
+      "account_id": 183719386,
+      "player_slot": 130,
+      "hero_id": 59,
+      "personaname": "SMACSA-",
+      "isRadiant": false,
+      "win": 1,
+      "kills": 3,
+      "deaths": 2,
+      "assists": 4,
+      "last_hits": 349,
+      "denies": 6,
+      "gold_per_min": 617,
+      "xp_per_min": 826,
+      "hero_damage": 19183,
+      "net_worth": 20609,
+      "lh_t": [
+        0,
+        0,
+        4,
+        9,
+        14,
+        18,
+        25,
+        35,
+        41,
+        45,
+        55,
+        57,
+        70,
+        86,
+        102,
+        111,
+        125,
+        144,
+        159,
+        176,
+        198,
+        213,
+        228,
+        239,
+        244,
+        263,
+        278,
+        292,
+        300,
+        324,
+        327,
+        339,
+        343,
+        347
+      ],
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "gauntlets"
+        },
+        {
+          "time": -89,
+          "key": "gauntlets"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "faerie_fire"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": 130,
+          "key": "boots"
+        },
+        {
+          "time": 226,
+          "key": "wind_lace"
+        },
+        {
+          "time": 241,
+          "key": "gloves"
+        },
+        {
+          "time": 316,
+          "key": "power_treads"
+        },
+        {
+          "time": 316,
+          "key": "belt_of_strength"
+        },
+        {
+          "time": 320,
+          "key": "faerie_fire"
+        },
+        {
+          "time": 411,
+          "key": "gloves"
+        },
+        {
+          "time": 565,
+          "key": "blades_of_attack"
+        },
+        {
+          "time": 643,
+          "key": "helm_of_iron_will"
+        },
+        {
+          "time": 728,
+          "key": "armlet"
+        },
+        {
+          "time": 769,
+          "key": "belt_of_strength"
+        },
+        {
+          "time": 884,
+          "key": "blade_of_alacrity"
+        },
+        {
+          "time": 931,
+          "key": "dragon_lance"
+        },
+        {
+          "time": 958,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1101,
+          "key": "staff_of_wizardry"
+        },
+        {
+          "time": 1101,
+          "key": "fluffy_hat"
+        },
+        {
+          "time": 1101,
+          "key": "force_staff"
+        },
+        {
+          "time": 1146,
+          "key": "hurricane_pike"
+        },
+        {
+          "time": 1230,
+          "key": "ogre_axe"
+        },
+        {
+          "time": 1444,
+          "key": "mithril_hammer"
+        },
+        {
+          "time": 1504,
+          "key": "black_king_bar"
+        },
+        {
+          "time": 1524,
+          "key": "dust"
+        },
+        {
+          "time": 1756,
+          "key": "reaver"
+        },
+        {
+          "time": 1914,
+          "key": "ring_of_tarrasque"
+        },
+        {
+          "time": 1929,
+          "key": "heart"
+        },
+        {
+          "time": 1995,
+          "key": "aghanims_shard"
+        }
+      ]
+    },
+    {
+      "account_id": 93817671,
+      "player_slot": 131,
+      "hero_id": 105,
+      "personaname": "; ]",
+      "isRadiant": false,
+      "win": 1,
+      "kills": 4,
+      "deaths": 3,
+      "assists": 17,
+      "last_hits": 101,
+      "denies": 1,
+      "gold_per_min": 432,
+      "xp_per_min": 580,
+      "hero_damage": 16619,
+      "net_worth": 13166,
+      "lh_t": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        4,
+        8,
+        10,
+        13,
+        16,
+        16,
+        20,
+        31,
+        32,
+        32,
+        40,
+        45,
+        54,
+        57,
+        62,
+        68,
+        69,
+        69,
+        79,
+        80,
+        88,
+        99,
+        99,
+        99,
+        99
+      ],
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "charges": 6,
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "ward_sentry"
+        },
+        {
+          "time": -89,
+          "key": "blood_grenade"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": 6,
+          "key": "flask"
+        },
+        {
+          "time": 98,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 98,
+          "key": "tango"
+        },
+        {
+          "time": 248,
+          "key": "ward_observer"
+        },
+        {
+          "time": 248,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 249,
+          "key": "clarity"
+        },
+        {
+          "time": 250,
+          "key": "magic_stick"
+        },
+        {
+          "time": 355,
+          "key": "wind_lace"
+        },
+        {
+          "time": 381,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": 381,
+          "key": "tpscroll"
+        },
+        {
+          "time": 530,
+          "key": "boots"
+        },
+        {
+          "time": 532,
+          "key": "sobi_mask"
+        },
+        {
+          "time": 536,
+          "key": "magic_wand"
+        },
+        {
+          "time": 569,
+          "key": "tpscroll"
+        },
+        {
+          "time": 626,
+          "key": "wizard_hat"
+        },
+        {
+          "time": 627,
+          "key": "ward_observer"
+        },
+        {
+          "time": 646,
+          "key": "ring_of_basilius"
+        },
+        {
+          "time": 682,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 762,
+          "key": "arcane_boots"
+        },
+        {
+          "time": 785,
+          "key": "wizard_hat"
+        },
+        {
+          "time": 852,
+          "key": "fluffy_hat"
+        },
+        {
+          "time": 852,
+          "key": "ring_of_protection"
+        },
+        {
+          "time": 856,
+          "key": "ward_observer"
+        },
+        {
+          "time": 857,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 938,
+          "key": "pavise"
+        },
+        {
+          "time": 960,
+          "key": "chainmail"
+        },
+        {
+          "time": 960,
+          "key": "clarity"
+        },
+        {
+          "time": 1111,
+          "key": "solar_crest"
+        },
+        {
+          "time": 1115,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1115,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1151,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1151,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1158,
+          "key": "ring_of_protection"
+        },
+        {
+          "time": 1158,
+          "key": "buckler"
+        },
+        {
+          "time": 1165,
+          "key": "sobi_mask"
+        },
+        {
+          "time": 1268,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1268,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": 1357,
+          "key": "lifesteal"
+        },
+        {
+          "time": 1395,
+          "key": "blades_of_attack"
+        },
+        {
+          "time": 1396,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1396,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1397,
+          "key": "clarity"
+        },
+        {
+          "time": 1447,
+          "key": "ring_of_basilius"
+        },
+        {
+          "time": 1447,
+          "key": "vladmir"
+        },
+        {
+          "time": 1473,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1473,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1485,
+          "key": "ring_of_regen"
+        },
+        {
+          "time": 1486,
+          "key": "headdress"
+        },
+        {
+          "time": 1607,
+          "key": "chainmail"
+        },
+        {
+          "time": 1674,
+          "key": "mekansm"
+        },
+        {
+          "time": 1714,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1743,
+          "key": "guardian_greaves"
+        },
+        {
+          "time": 1758,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1758,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": 1827,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1827,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1888,
+          "key": "dust"
+        },
+        {
+          "time": 1889,
+          "key": "dust"
+        }
+      ]
+    },
+    {
+      "account_id": 103735745,
+      "player_slot": 132,
+      "hero_id": 21,
+      "personaname": "lostreak chicken",
+      "isRadiant": false,
+      "win": 1,
+      "kills": 4,
+      "deaths": 0,
+      "assists": 16,
+      "last_hits": 94,
+      "denies": 7,
+      "gold_per_min": 420,
+      "xp_per_min": 649,
+      "hero_damage": 19913,
+      "net_worth": 12010,
+      "lh_t": [
+        0,
+        0,
+        1,
+        3,
+        3,
+        4,
+        9,
+        9,
+        10,
+        10,
+        14,
+        15,
+        16,
+        20,
+        21,
+        23,
+        31,
+        31,
+        37,
+        42,
+        50,
+        56,
+        62,
+        69,
+        70,
+        78,
+        81,
+        81,
+        85,
+        85,
+        86,
+        89,
+        91,
+        93
+      ],
+      "purchase_log": [
+        {
+          "time": -89,
+          "key": "tango"
+        },
+        {
+          "time": -89,
+          "key": "blood_grenade"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": -89,
+          "key": "circlet"
+        },
+        {
+          "time": -89,
+          "key": "faerie_fire"
+        },
+        {
+          "time": -89,
+          "key": "branches"
+        },
+        {
+          "time": 12,
+          "key": "tango"
+        },
+        {
+          "time": 63,
+          "key": "flask"
+        },
+        {
+          "time": 154,
+          "key": "clarity"
+        },
+        {
+          "time": 155,
+          "key": "tango"
+        },
+        {
+          "time": 191,
+          "key": "boots"
+        },
+        {
+          "time": 224,
+          "key": "blood_grenade"
+        },
+        {
+          "time": 265,
+          "key": "quelling_blade"
+        },
+        {
+          "time": 294,
+          "key": "clarity"
+        },
+        {
+          "time": 330,
+          "key": "ward_observer"
+        },
+        {
+          "time": 331,
+          "key": "clarity"
+        },
+        {
+          "time": 331,
+          "key": "blood_grenade"
+        },
+        {
+          "time": 377,
+          "key": "sobi_mask"
+        },
+        {
+          "time": 378,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 457,
+          "key": "clarity"
+        },
+        {
+          "time": 459,
+          "key": "blood_grenade"
+        },
+        {
+          "time": 459,
+          "key": "ward_observer"
+        },
+        {
+          "time": 513,
+          "key": "ring_of_protection"
+        },
+        {
+          "time": 550,
+          "key": "urn_of_shadows"
+        },
+        {
+          "time": 576,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 576,
+          "key": "magic_stick"
+        },
+        {
+          "time": 584,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 587,
+          "key": "magic_wand"
+        },
+        {
+          "time": 624,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 624,
+          "key": "clarity"
+        },
+        {
+          "time": 625,
+          "key": "tpscroll"
+        },
+        {
+          "time": 630,
+          "key": "blood_grenade"
+        },
+        {
+          "time": 737,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 737,
+          "key": "ward_observer"
+        },
+        {
+          "time": 737,
+          "key": "clarity"
+        },
+        {
+          "time": 738,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": 771,
+          "key": "tpscroll"
+        },
+        {
+          "time": 810,
+          "key": "blood_grenade"
+        },
+        {
+          "time": 861,
+          "key": "chainmail"
+        },
+        {
+          "time": 861,
+          "key": "wizard_hat"
+        },
+        {
+          "time": 863,
+          "key": "smoke_of_deceit"
+        },
+        {
+          "time": 900,
+          "key": "essence_distiller"
+        },
+        {
+          "time": 903,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 903,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 931,
+          "key": "shawl"
+        },
+        {
+          "time": 1001,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1002,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1004,
+          "key": "blood_grenade"
+        },
+        {
+          "time": 1150,
+          "key": "vitality_booster"
+        },
+        {
+          "time": 1191,
+          "key": "crown"
+        },
+        {
+          "time": 1268,
+          "key": "consecrated_wraps"
+        },
+        {
+          "time": 1285,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1286,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1286,
+          "key": "clarity"
+        },
+        {
+          "time": 1328,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1342,
+          "key": "clarity"
+        },
+        {
+          "time": 1522,
+          "key": "blade_of_alacrity"
+        },
+        {
+          "time": 1522,
+          "key": "robe"
+        },
+        {
+          "time": 1571,
+          "key": "diffusal_blade"
+        },
+        {
+          "time": 1572,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1572,
+          "key": "ward_observer"
+        },
+        {
+          "time": 1572,
+          "key": "clarity"
+        },
+        {
+          "time": 1573,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1648,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1684,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1764,
+          "key": "ward_sentry"
+        },
+        {
+          "time": 1837,
+          "key": "tpscroll"
+        },
+        {
+          "time": 1918,
+          "key": "mithril_hammer"
+        }
+      ]
+    }
+  ]
+}
